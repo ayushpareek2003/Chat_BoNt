@@ -2,17 +2,6 @@
 
 A native iOS app that provides a ChatGPT-like experience using the OpenAI API. Built with SwiftUI and following modern iOS design patterns.
 
-## Features
-
-- 🤖 **AI Chat Interface**: Clean, modern chat interface similar to ChatGPT
-- 🔐 **Secure API Key Management**: Local storage of your OpenAI API key
-- 💬 **Real-time Messaging**: Send messages and receive AI responses
-- 🎨 **Modern UI**: Beautiful, responsive design with smooth animations
-- 📱 **iOS Native**: Built specifically for iOS with SwiftUI
-- 🔄 **Chat History**: View your conversation history during the session
-- ❌ **Error Handling**: Comprehensive error handling and user feedback
-- 🧹 **Clear Chat**: Reset conversation with a single tap
-
 ## Screenshots
 
 The app features:
