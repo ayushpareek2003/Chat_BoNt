@@ -19,7 +19,7 @@ class ChatViewModel: ObservableObject {
             isUser: false
         ))
     }
-    
+
     func sendMessage() {
         guard !inputText.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else { return }
         
